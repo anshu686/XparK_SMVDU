@@ -1,0 +1,23 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Owner: Saurabh Kumar
+  Site: http://saurabhworld.in
+  Twitter: saurabh_world
+  Location: India
+  
+  Developer: Saurabh Kumar
+  Site: http://saurabhworld.in
+  Twitter: saurabh_world
+  Location: India
+
+
+/* THANKS */
+  Names (& URL): open-source community
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Notepad++, Photoshop, Illustrator
+  Doctype:HTML5
