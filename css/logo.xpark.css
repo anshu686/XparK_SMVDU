@@ -1,0 +1,23 @@
+#logo-xpark{
+	background-color: red;	
+	width: 250px;
+	margin: 10px;
+	padding: 15px;
+	padding-bottom: 50px;
+	font-family: arial;
+}
+
+#logo-xpark .title {
+	font-family: "wallpoet", serif;
+	font-size: 90px;
+	color: black;
+}
+
+#logo-xpark .subtitle {
+	background-color: black;
+	color: red;
+	font-size: 10px;
+	margin-top: -27px;
+	line-height: 14px;
+	text-align: right;
+}
